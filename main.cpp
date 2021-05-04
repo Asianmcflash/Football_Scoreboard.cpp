@@ -1,7 +1,8 @@
 //Vincent Hong
-//COSC 
+//Dr.T - Tarrant County College
 //April 26, 2021
-//Dr. T
+//Create a menu of a football scoreboard
+//Learn to create a menu of a scoreboard for a football game
 
 #include <iostream>
 #include <string> 
